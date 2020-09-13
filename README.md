@@ -1,2 +1,2 @@
 # MIT-Office-of-Work-Life-Balance
-MIT decides to help its community with their romance woes with a special office for nerd matchmaking and dating advice. A NaNoWriMo novel.
+Dating is hard, but now there's help. Visit the MIT Office of Work/Life Balance for nerd-aware matchmaking, scientifically informed dating advice, and sympathy for your dating woes. A NaNoWriMo novel.
